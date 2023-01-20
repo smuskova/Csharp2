@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\2 formi\2 formi\obj\Debug\2 formi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2 formi\2 formi\obj\Debug\_2_formi.Form1.resources
+C:\Users\User\Desktop\2 formi\2 formi\obj\Debug\_2_formi.Form2.resources
+C:\Users\User\Desktop\2 formi\2 formi\obj\Debug\_2_formi.Properties.Resources.resources
+C:\Users\User\Desktop\2 formi\2 formi\obj\Debug\2 formi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2 formi\2 formi\obj\Debug\2 formi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2 formi\2 formi\bin\Debug\2 formi.exe.config
+C:\Users\User\Desktop\2 formi\2 formi\bin\Debug\2 formi.exe
+C:\Users\User\Desktop\2 formi\2 formi\bin\Debug\2 formi.pdb
+C:\Users\User\Desktop\2 formi\2 formi\obj\Debug\2 formi.exe
+C:\Users\User\Desktop\2 formi\2 formi\obj\Debug\2 formi.pdb
+C:\Users\User\Desktop\C#\2 formi\2 formi\bin\Debug\2 formi.exe.config
+C:\Users\User\Desktop\C#\2 formi\2 formi\bin\Debug\2 formi.exe
+C:\Users\User\Desktop\C#\2 formi\2 formi\bin\Debug\2 formi.pdb
+C:\Users\User\Desktop\C#\2 formi\2 formi\obj\Debug\2 formi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\2 formi\2 formi\obj\Debug\_2_formi.Form1.resources
+C:\Users\User\Desktop\C#\2 formi\2 formi\obj\Debug\_2_formi.Form2.resources
+C:\Users\User\Desktop\C#\2 formi\2 formi\obj\Debug\_2_formi.Properties.Resources.resources
+C:\Users\User\Desktop\C#\2 formi\2 formi\obj\Debug\2 formi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\2 formi\2 formi\obj\Debug\2 formi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\2 formi\2 formi\obj\Debug\2 formi.exe
+C:\Users\User\Desktop\C#\2 formi\2 formi\obj\Debug\2 formi.pdb

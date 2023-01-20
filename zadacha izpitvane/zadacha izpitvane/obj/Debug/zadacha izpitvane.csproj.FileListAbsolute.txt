@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C#\12 klas\zadacha izpitvane\zadacha izpitvane\bin\Debug\zadacha izpitvane.exe.config
+C:\Users\User\Desktop\C#\12 klas\zadacha izpitvane\zadacha izpitvane\bin\Debug\zadacha izpitvane.exe
+C:\Users\User\Desktop\C#\12 klas\zadacha izpitvane\zadacha izpitvane\bin\Debug\zadacha izpitvane.pdb
+C:\Users\User\Desktop\C#\12 klas\zadacha izpitvane\zadacha izpitvane\obj\Debug\zadacha izpitvane.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\12 klas\zadacha izpitvane\zadacha izpitvane\obj\Debug\zadacha_izpitvane.Form1.resources
+C:\Users\User\Desktop\C#\12 klas\zadacha izpitvane\zadacha izpitvane\obj\Debug\zadacha_izpitvane.Properties.Resources.resources
+C:\Users\User\Desktop\C#\12 klas\zadacha izpitvane\zadacha izpitvane\obj\Debug\zadacha izpitvane.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\12 klas\zadacha izpitvane\zadacha izpitvane\obj\Debug\zadacha izpitvane.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\12 klas\zadacha izpitvane\zadacha izpitvane\obj\Debug\zadacha izpitvane.exe
+C:\Users\User\Desktop\C#\12 klas\zadacha izpitvane\zadacha izpitvane\obj\Debug\zadacha izpitvane.pdb
